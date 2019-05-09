@@ -8,7 +8,7 @@ package studentdemoweek1;
 /**
  * This class models students.
  * Student have a name and a studentID and a program
- * @author dancye, 2019
+ * @author dancye, 2019 changed on github
  */
 public class Student 
 {
